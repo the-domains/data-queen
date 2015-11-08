@@ -1,0 +1,23 @@
+name: Data Queen
+favicon: null
+layout_spectrum: 0.6410440898034722
+typography_spectrum: 0.12656726804561913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.11644022143445909
+  lightness: 0.25217384845018387
+  saturation: 0.4163444184232503
+  rhythmicContrast: 0.32005620701238513
+purpose: []
