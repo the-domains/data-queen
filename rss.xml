@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Data Queen]]></title>
+        <description><![CDATA[Data Queen]]></description>
+        <link>https://thegrid.ai/data-queen/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 01:06:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/data-queen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Trends for Mobile Advertising and Data Science in 2016]]></title>
+            <description><![CDATA[<article><h1>Top Trends for Mobile Advertising and Data Science in 2016</h1><p>Is it finally the year of mobile? We have been hearing this since the introduction of the smartphone years ago. The use of mobile devices as vehicles for content, communication and efficiency continues to grow as global smartphone penetration maintains double-digit growth for the near future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98aab746c989e511b2e664394397aeda41ed3e4.jpg"></article>]]></description>
+            <link>http://adage.com/article/digitalnext/top-trends-mobile-advertising-data-science-2016/301786/</link>
+            <guid isPermaLink="false">b6756e52-4010-4194-9aaa-5b7b91551aaa</guid>
+            <pubDate>Sun, 03 Jan 2016 01:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Me]]></title>
+            <description><![CDATA[<article><h1>Me</h1><p>I am a digital data geek and strategist who loves creating stories from dirty and disparate signals and loves mentoring others to 'speak' and think data. I have more than 20 years in data and technology strategy, science, and data creation in various information and tech industries, including a PhD in Economics from Brown University.
+
+I work at Dstillery, a cross-channel, cross-device data science and agile technology company.  My focus as VP, Strategy, is to evangelize our products and connect with brands, agencies and solution providers to ensure we remain thought leaders in the industry.  Our focus is a platform which provides clients with x-device and x-channel audience intelligence and media solutions for today,
+
+Prior to Dstillery, I was the Chief Science Officer of EveryScreen Media,  a start-up mobile RTB and audience technology company, and one of the first mobile DSPs to provide cross-walk capabilities from desktop to mobile audience. Before EveryScreen, I managed the science, data assets and data engineering teams at WPP's Kantar Compete (now Millward Brown Digital) building large, global, multi-sourced digital consumer panels and analytics.
+
+I am an active speaker and writer on innovation through mobile data, technology and data science. As a result, I am lucky to be involved with top organizations including ARF, MMA, IAB, I-COM, CTIA Innovation Council, and Bella Minds where I continue to meet people to collaborate with on data, technology and product ideas.
+
+I remain active in teaching and mentoring.  I continue to advise different data-driven start-ups in mobile, education, consumer and B2B, including: Similar Group, Unbound Concepts, and Jumpshell. For the Spring 2015, I taughtRise of Internet Media as an adjunct at NYU, Steinhardt for the Media, Culture and Communication department. I also teach as part of the Enterprise program at General Assembly.</p></article>]]></description>
+            <link>https://thegrid.ai/data-queen/me/index.html</link>
+            <guid isPermaLink="false">87a987ec-6fad-40fe-8a66-a25dcd6e4f3b</guid>
+            <pubDate>Sun, 08 Nov 2015 22:53:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
