@@ -1,6 +1,6 @@
 name: Data Queen
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.00422
 typography_spectrum: 0.13867
 title: 'Storytelling, Science and Art'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#785261'
-    - '#212733'
-    - '#c4c6c5'
     - '#ffffff'
-    - '#dc664c'
+    - '#110f10'
+    - '#f0542e'
+    - '#827c86'
+    - '#860734'
   brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.0625
