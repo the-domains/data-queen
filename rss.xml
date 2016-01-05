@@ -4,7 +4,7 @@
         <description><![CDATA[Storytelling, Science and Art]]></description>
         <link>https://thegrid.ai/data-queen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 23:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 15:49:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/data-queen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/data-queen/me/index.html</link>
             <guid isPermaLink="false">87a987ec-6fad-40fe-8a66-a25dcd6e4f3b</guid>
             <pubDate>Sun, 03 Jan 2016 14:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finding New Audiences For Marketers WIll Involve Mobile Prospecting]]></title>
+            <description><![CDATA[<article><h1>Finding New Audiences For Marketers WIll Involve Mobile Prospecting</h1><p>RTBlog had an opportunity to chat with Lauren Moores, Ph.D. and VP of strategy for Dstillery, a tech and data company that offers a managed service and self-service programmatic ad buying platform. Moores never thought too much about her degree in economics but says she uses those skills every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc737e91087a51cf3e81c19ca85a23ded22fff2f.jpg"></article>]]></description>
+            <link>http://www.mediapost.com/publications/article/264758/finding-new-audiences-for-marketers-will-involve-m.html?utm_source=newsletter&amp;utm_medium=email&amp;utm_content=readmore&amp;utm_campaign=89114</link>
+            <guid isPermaLink="false">69d1343d-0aef-4c26-8c18-7ba04b99e6a4</guid>
+            <pubDate>Tue, 05 Jan 2016 15:49:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#NYCU - Trends to Look for in 2016 - Experts Weigh In]]></title>
@@ -33,13 +40,6 @@
             <link>http://www.momentology.com/9031-mobile-marketing-trends-2016/</link>
             <guid isPermaLink="false">5aa84dad-c376-4c71-ba35-8357dc512817</guid>
             <pubDate>Mon, 04 Jan 2016 20:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://laurenmoores.files.wordpress.com/2015/05/2015-05-04-10-26-14.jpg?w=530&h=300&crop=1">]]></description>
-            <link>https://thegrid.ai/data-queen/5bdade41-bd00-4c79-9806-e7fef9ce6aae/index.html</link>
-            <guid isPermaLink="false">5bdade41-bd00-4c79-9806-e7fef9ce6aae</guid>
-            <pubDate>Sun, 03 Jan 2016 01:28:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
